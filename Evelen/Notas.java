@@ -33,7 +33,6 @@ public class Notas {
 
         float mf = (s1 + s2) / 2;
 
-
         System.out.println("1° bimedtre"+b1);
         System.out.println("2° bimestre"+b2);
         System.out.println("1° semestre"+s1);
@@ -41,10 +40,5 @@ public class Notas {
         System.out.println("4° bimestre"+b4);
         System.out.println("2° semestre"+s2);
         System.out.println("Media final"+mf);
-
-
-
-
-
     }
 }
